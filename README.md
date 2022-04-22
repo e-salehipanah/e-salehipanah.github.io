@@ -1,4 +1,4 @@
-# website
+# Ebrahim Salehipanah website
 
 ## Project setup
 ```
